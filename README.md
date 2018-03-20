@@ -5,7 +5,7 @@ Emaily - COURSE PROJECT FROM 'Node with React: Fullstack Web Development' by Ste
 
 //cd in server and in server/client
 npm install 
-npm install
+
 //to run
 npm run dev
 
