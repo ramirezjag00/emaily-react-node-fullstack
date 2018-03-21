@@ -1,4 +1,3 @@
-//dev.js - don't commit this
 module.exports = {
 	googleClientID: "569195564883-uek9ji4rcv6n88nsek2f99lq8oco5u3l.apps.googleusercontent.com",
 	googleClientSecret: "HxewYno8bfwbuoTfV3Vl6uDv",
