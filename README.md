@@ -2,7 +2,6 @@
 emaily-react-node-fullstack=MERN STACK
 
 Emaily is a web app that enables start up companies to send surveys answerable by yes or no to their users.
-<img src="https://contattafiles.s3-us-west-1.amazonaws.com/tnt28197/Jkj8QdASKOBMQEN/emaily.gif">
 -it uses Google oAuth2
 
 -SendGrid
