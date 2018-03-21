@@ -3,6 +3,9 @@ emaily-react-node-fullstack
 
 #Emaily - COURSE PROJECT FROM 'Node with React: Fullstack Web Development' by Stephen Grider (https://www.udemy.com/node-with-react-fullstack-web-development/)
 
+PROD version Sample: 
+https://fast-cove-44450.herokuapp.com/
+
 //cd in server and in server/client
 
 npm install 
@@ -10,12 +13,6 @@ npm install
 //to run
 
 npm run dev
-
-#FOR PROD [MUST DO BEFORE PUSHING on HEROKU] - not yet finished [https://fast-cove-44450.herokuapp.com/]:
-
-provide a diff sendgrid key from sendgrid.com > settings> api keys add to heroku.com inside the sendgrid variable
-
-provide a diff http posts url for send grid... settings > mail settings > email notifications.
 
 #FOR IMPROVEMENT, expanding the APP, what we can add:
 
